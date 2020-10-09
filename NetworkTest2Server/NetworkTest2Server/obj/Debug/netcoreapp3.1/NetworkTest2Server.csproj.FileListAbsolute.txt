@@ -1,0 +1,13 @@
+C:\Users\samml\Documents\Unity_Projects\NetworkTest2\NetworkTest2Server\NetworkTest2Server\bin\Debug\netcoreapp3.1\NetworkTest2Server.exe
+C:\Users\samml\Documents\Unity_Projects\NetworkTest2\NetworkTest2Server\NetworkTest2Server\bin\Debug\netcoreapp3.1\NetworkTest2Server.deps.json
+C:\Users\samml\Documents\Unity_Projects\NetworkTest2\NetworkTest2Server\NetworkTest2Server\bin\Debug\netcoreapp3.1\NetworkTest2Server.runtimeconfig.json
+C:\Users\samml\Documents\Unity_Projects\NetworkTest2\NetworkTest2Server\NetworkTest2Server\bin\Debug\netcoreapp3.1\NetworkTest2Server.runtimeconfig.dev.json
+C:\Users\samml\Documents\Unity_Projects\NetworkTest2\NetworkTest2Server\NetworkTest2Server\bin\Debug\netcoreapp3.1\NetworkTest2Server.dll
+C:\Users\samml\Documents\Unity_Projects\NetworkTest2\NetworkTest2Server\NetworkTest2Server\bin\Debug\netcoreapp3.1\NetworkTest2Server.pdb
+C:\Users\samml\Documents\Unity_Projects\NetworkTest2\NetworkTest2Server\NetworkTest2Server\obj\Debug\netcoreapp3.1\NetworkTest2Server.csprojAssemblyReference.cache
+C:\Users\samml\Documents\Unity_Projects\NetworkTest2\NetworkTest2Server\NetworkTest2Server\obj\Debug\netcoreapp3.1\NetworkTest2Server.AssemblyInfoInputs.cache
+C:\Users\samml\Documents\Unity_Projects\NetworkTest2\NetworkTest2Server\NetworkTest2Server\obj\Debug\netcoreapp3.1\NetworkTest2Server.AssemblyInfo.cs
+C:\Users\samml\Documents\Unity_Projects\NetworkTest2\NetworkTest2Server\NetworkTest2Server\obj\Debug\netcoreapp3.1\NetworkTest2Server.csproj.CoreCompileInputs.cache
+C:\Users\samml\Documents\Unity_Projects\NetworkTest2\NetworkTest2Server\NetworkTest2Server\obj\Debug\netcoreapp3.1\NetworkTest2Server.dll
+C:\Users\samml\Documents\Unity_Projects\NetworkTest2\NetworkTest2Server\NetworkTest2Server\obj\Debug\netcoreapp3.1\NetworkTest2Server.pdb
+C:\Users\samml\Documents\Unity_Projects\NetworkTest2\NetworkTest2Server\NetworkTest2Server\obj\Debug\netcoreapp3.1\NetworkTest2Server.genruntimeconfig.cache
